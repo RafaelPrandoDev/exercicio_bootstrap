@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: auto;
+}
+
+body{
+    background-color: #cef3ea;
+}
+
+.container button{
+    margin-top: 16px;
+}
+
+.form-box{
+    border: 2px solid rgb(106, 223, 178);
+    border-radius: 8px;
+    box-shadow: 0 3px 16px rgba(0, 0, 0, 0.2); 
+    padding: 20px;
+    background-color: rgb(125, 248, 207)
+}
+
